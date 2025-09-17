@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="CPU_52">
+		<CBX_INST_ENTRY INSTANCE_NAME="|ADR_ALU|lpm_add_sub14:inst1|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_egh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ADR_ALU|lpm_mux9:inst3|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_afc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
